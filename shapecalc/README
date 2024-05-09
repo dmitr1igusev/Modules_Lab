@@ -1,0 +1,29 @@
+Module shapes contains one parent class named shape and four derived classes (Rectangle, Circle, Triangle, Trapezoid).
+
+Class Shape:
+Two attributes x and y with default value 0.00.
+The value of these attributes can be set using functions set_x , set_y.
+
+Class Circle:
+Two attributes x and y with default value 0.00.
+The value of these attributes can be set using functions set_x , set_y.
+Calculates the area of a circle with function area, assuming that radius is x-value.
+
+Class Rectangle:
+Two attributes x and y with default value 0.00.
+The value of these attributes can be set using functions set_x , set_y.
+Calculates the area of a rectangle with function area.
+
+Class Triangle:
+Two attributes x and y with default value 0.00.
+The value of these attributes can be set using functions set_x , set_y.
+Calculates the area of a triangle with function area.
+
+
+Class Trapezoid:
+Three attributes x, y and z with default value 0.00.
+The value of these attributes can be set using functions set_x , set_y, set_z.
+Calculates the area of a trapezoid with function area.
+
+
+
